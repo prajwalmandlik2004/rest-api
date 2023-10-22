@@ -18,8 +18,7 @@ This repository contains a sample REST API built with Node.js and provides a Pos
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/rest-api-postman-nodejs.git
-   cd rest-api-postman-nodejs
+   git clone https://github.com/yourusername/rest-api.git
    ```
 
 2. **Install Dependencies:**
