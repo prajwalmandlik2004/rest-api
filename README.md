@@ -2,6 +2,9 @@
 
 This repository contains a sample REST API built with Node.js and provides a Postman collection to interact with the API. This README file will guide you through the setup, features, and usage of the project.
 
+![restapi](https://github.com/prajwalmandlik2004/rest-api/assets/99119449/ddef3805-c444-441a-b9fb-899e4bd03db8)
+
+
 ## Features
 
 - **Sample REST API:** The project includes a basic REST API with endpoints for common CRUD operations.
